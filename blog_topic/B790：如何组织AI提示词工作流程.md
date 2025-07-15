@@ -1,4 +1,4 @@
-# B790：如何组织AI提示词工作流程
+# OK-B790-王胜文：如何组织AI提示词工作流程
 
 How To Organize AI Prompt Workflows
 

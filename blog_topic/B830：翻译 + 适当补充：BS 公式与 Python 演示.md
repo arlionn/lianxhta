@@ -1,4 +1,4 @@
-# B830：翻译 + 适当补充：BS 公式与 Python 演示
+# OK-B830-修博文：翻译 + 适当补充：BS 公式与 Python 演示
 
 - [Pricing Derivatives Using Black-Scholes-Merton Model](https://mrislambd.github.io/statandprob/posts/optionprice/)
 

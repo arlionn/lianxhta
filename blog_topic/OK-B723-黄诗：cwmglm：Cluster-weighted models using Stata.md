@@ -1,4 +1,4 @@
-# B868：cwmglm：Cluster-weighted models using Stata
+# OK-B723-黄诗：cwmglm：Cluster-weighted models using Stata.md
 
 写一篇推文介绍这个方法的基本思想、应用场景和 Stata 实操步骤，适当精简这篇论文，翻译为中文，酌情删减或补充。
 

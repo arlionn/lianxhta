@@ -1,4 +1,4 @@
-# B899：ge_gravity2：Stata 引力模型命令
+# OK-B899-林芷涵：ge_gravity2：Stata 引力模型命令
 
 - Campos, R. G., Reggio, I., & Timini, J. (2025). ge_gravity2: A command for solving universal gravity models. The Stata Journal, 25(4), 743–771. [Link](https://journals.sagepub.com/doi/10.1177/1536867X251398335), [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1536867X251398335), [PDF-wp](https://rolf-campos.github.io/project/ge_gravity2/ge_gravity2.pdf), [Google](<https://scholar.google.com/scholar?q=ge_gravity2: A command for solving universal gravity models>).
 
